@@ -1,0 +1,34 @@
+{
+  "Flights": [
+    
+    {
+      "airlines": "Indigo",
+      "from": "Kolkata",
+      "to": "Delhi",
+      "cost": "9000",
+      "FromTime": "06:00",
+      "ToTime": "12:00",
+      "pnr": 127720848785,
+      "capacity": "100",
+      "id": 4
+    },
+    {
+      "airlines": "india",
+      "from": "bgp",
+      "to": "london",
+      "cost": "50000",
+      "FromTime": "21",
+      "ToTime": "22",
+      "pnr": 397082810551,
+      "capacity": "100",
+      "id": 5
+    }
+  ],
+  "Airports": [
+   
+    {
+      "airport": "naugachia",
+      "id": 5
+    }
+  ]
+}
